@@ -5,16 +5,15 @@
   border-width: 2px black;
   display: flex;
   flex-wrap: wrap;
+  
 }
 
 .grid-sqaure{
-  flex: 0 0 6.25%;
-  height: 6.25%;
   box-sizing: border-box;
   border: solid 1px black;
   background-color: white;
 }
 
 .active-sqaure{
-  background-color: black;
+  background-color: rgb(255, 0, 0);
 }
